@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d397ccd14a41a4b4a82c140a08135463
+timeCreated: 1486665401
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Olde English
+  fontNames:
+  - Olde English
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
